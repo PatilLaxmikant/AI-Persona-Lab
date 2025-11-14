@@ -155,11 +155,6 @@ Contributions are welcome! Please:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
-## 🙏 Acknowledgments
 
 * [Ollama](https://ollama.ai/) for the amazing local LLM server.
 * [Streamlit](https://streamlit.io/) for the powerful UI framework.
