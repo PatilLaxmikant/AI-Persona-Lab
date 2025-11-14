@@ -39,7 +39,7 @@ This project features a modern, dark-mode "bot-lab" UI and a high-performance, a
 
 2.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/marc-shade/ai-persona-lab.git](https://github.com/marc-shade/ai-persona-lab.git)
+    git clone [https://github.com/PatilLaxmikant/AI-Persona-Lab.git)
     cd ai-persona-lab
     ```
 
