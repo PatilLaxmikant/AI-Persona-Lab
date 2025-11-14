@@ -10,7 +10,7 @@ This project features a modern, dark-mode "bot-lab" UI and a high-performance, a
 
 > **Note:** The screenshot below is from a previous version. Please update this image to reflect the new dark-mode UI and card-based dashboard!
 
-![Screenshot 2024-12-02 at 9 36 52 AM (4)](https://github.com/user-attachments/assets/ae521600-3631-4c0c-9d7d-5c9dba61cdd3)
+![Screenshot 2025-11-14 at 4 05 52 PM](image.png)
 
 ## ✨ Key Features
 
