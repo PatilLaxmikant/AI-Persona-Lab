@@ -1,0 +1,15 @@
+[theme]
+# A futuristic, "AI" blue
+primaryColor="#00A9FF"
+
+# A very dark background for a "lab" feel
+backgroundColor="#0A0A0A"
+
+# A slightly lighter dark for UI elements
+secondaryBackgroundColor="#1E1E1E"
+
+# Off-white text for readability
+textColor="#E0E0E0"
+
+# A "tech" or "code" font
+font="monospace"
